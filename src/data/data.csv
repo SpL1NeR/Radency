@@ -1,0 +1,8 @@
+Full_Name,Phone,Email,Age,Experience,Yearly_Income,Has_children,License_States,Expiration_Date,License_Number
+Full Name,Phone,Email,20,12,f,TRUE,License States,Expiration Date,License Number
+Full Name,213456789012,Email,21,21,-1,true,License States,2000,License Number
+Full Name,2234567890,Email,21,22,1,s,License States,10-12-2222,dbcdt6
+Full Name,21345678901,Email,21,22,322.222,fdfd,License States,2222-20-13,Ldbcdt6
+Full Name,2134567844444901,d,21,22,322.222,,License States,Expiration Date,dbcdt6
+Full Name,2134567844444901,Email,21,22,322.222,fdfd,Stat,Expiration Date,dbcdt6
+d,+11234567890,Email,21,22,322.222,fdfd,s|States,Expiration Date,dbcdt6
